@@ -11,6 +11,8 @@ Layers
 ![Layers](./layers.png)
 
 ---
+
 Result
+![test data](./test.png)
 
 ![perdiction result](./result.png)
