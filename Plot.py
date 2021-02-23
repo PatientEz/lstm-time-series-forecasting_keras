@@ -18,7 +18,7 @@ config = Config()
 hat_y = np.load(config.path + config.dimname + "-hat_y.npy")
 test_y= np.load(config.path + config.dimname + "-test_y.npy")
 plt.plot(test_y, label ="test_y")
-#plt.plot(hat_y, label ="hat_y")
+plt.plot(hat_y, label ="hat_y")
 plt.legend()
 plt.show()
 
